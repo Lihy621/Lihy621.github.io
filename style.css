@@ -46,6 +46,10 @@ nav {
     color: #1877F2;
 }
 
+nav ul li a.active {
+    color: #1877F2; /*  */
+}
+
 /* Burger Menu for mobile view */
 .burger {
     display: none;
